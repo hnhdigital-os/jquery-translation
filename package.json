@@ -1,0 +1,30 @@
+{
+  "name"        : "jquery-translation",
+  "main"        : "jquery-translation.js",
+  "version"     : "1.0.0",
+  "title"       : "jQuery translation",
+  "description" : "Provides foundation configuration",
+  "keywords"    : ["jquery", "translation"],
+
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hnhdigital-os/jquery-translation.git"
+  },
+
+  "author" : {
+    "name"  : "Rocco Howard",
+    "email" : "rocco@hnh.digital",
+    "url"   : "http://roccohoward.com/"
+  },
+
+  "dependencies" : {
+    "jquery" : ">= 1.7"
+  },
+
+  "licenses" : [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/mit-license.php"
+    }
+  ]
+}
